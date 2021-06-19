@@ -1,16 +1,4 @@
-# snippets
+# Dart and Flutter Snippets
+Somewhere for me to put stuff when I'm trying to figure out how it works ... May be of use at a later date to when my memory lets me down!
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Snippets are embedded in the tests - seemed like an easy way to have lots things I could run independently.
